@@ -1,0 +1,1 @@
+# canaisdetvabertosefechados-adulto
