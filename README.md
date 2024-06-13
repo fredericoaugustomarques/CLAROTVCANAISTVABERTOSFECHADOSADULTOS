@@ -130,15 +130,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.tvR2Q1ip4BXnLe-VTV0ASwHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",COMBATE
 http://bdta.pro/3134767531/5CqmEyGNTt/71845.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.rMjtOZvIMNHp4lCYW3hXCgHaB1&w=350&h=86&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/71913.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.IeGRbtrPVoqnovKSpbc7OQHaBU&w=354&h=63&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 01 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72332.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.b7baek3gi9J2cQ2c9PvfgwHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 02
-https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/131176.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.b7baek3gi9J2cQ2c9PvfgwHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 03
 http://bdta.pro/3134767531/5CqmEyGNTt/131113.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t9olwooambndMvDbrBSAGAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+http://bdta.pro/3134767531/5CqmEyGNTt/72265.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.lhxXJ0yy1yuvBNCkFueW3gAAAA&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",WOOHOO
 https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.3evx_yK-gcqADsaGeRCOFQHaEz?w=276&h=180&c=7&r=0&o=5&pid=1.7",TLC
