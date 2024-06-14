@@ -729,7 +729,7 @@ https://mycdn.delivery/history2/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/discoverytheater/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?id=OIP.YKjcjteZ4uOxy9dRpeLkUAHaIc&w=234&h=266&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",DISCOVERY SCIENCE
 http://bdta.pro/3134767531/5CqmEyGNTt/71877.m3u8
-#EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="#EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="",INVESTIGAÇÃO DISCOVERY ",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?id=OIP.zAAGrAzfx8xKoCBGT6q74wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",DISCOVERY WORLD
 http://bdta.pro/3134767531/5CqmEyGNTt/71889.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.2bxLoBKOAQoyFHeB-GkexAHaE8?w=239&h=180&c=7&r=0&o=5&pid=1.7",INVESTIGAÇÃO DISCOVERY 
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
