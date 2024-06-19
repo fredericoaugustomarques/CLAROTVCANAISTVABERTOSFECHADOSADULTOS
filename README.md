@@ -125,6 +125,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 http://bdta.pro/3134767531/5CqmEyGNTt/71845.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.rMjtOZvIMNHp4lCYW3hXCgHaB1&w=350&h=86&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN 
 http://bdta.pro/3134767531/5CqmEyGNTt/71913.m3u8
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.6ZR_Iy7iq9SkwSKrTVlufAHaBZ&w=350&h=66&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN 2
+http://bdta.pro/3134767531/5CqmEyGNTt/71922.m3u8
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.YVH3WcZ44PDlyfMoLOUr5AAAAA&w=335&h=68&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN 3
+http://bdta.pro/3134767531/5CqmEyGNTt/71909.m3u8
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.cMPPkLXWCfoXasHAK9EKqQHaBZ&w=350&h=65&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN 4
+http://bdta.pro/3134767531/5CqmEyGNTt/71960.m3u8
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.z9SETWiBAD-XZvQxuN3xOQHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN EXTRA
+http://bdta.pro/3134767531/5CqmEyGNTt/71917.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.IeGRbtrPVoqnovKSpbc7OQHaBU&w=354&h=63&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 01 
 http://bdta.pro/3134767531/5CqmEyGNTt/72332.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.b7baek3gi9J2cQ2c9PvfgwHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 02
