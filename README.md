@@ -141,7 +141,18 @@ http://bdta.pro/3134767531/5CqmEyGNTt/131176.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/131113.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t9olwooambndMvDbrBSAGAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES
 http://bdta.pro/3134767531/5CqmEyGNTt/72265.m3u8
-
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 02
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/pb4oju44ycclc.m3u8?s=GHkODVIG0YbMlKHd53Xpag&e=1718942614
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 03
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/mxpjkbo9xahma.m3u8?s=G0cuaIXqYHYG-kmXCRPOgQ&e=1718942740
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 04
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/pb4oju44ycclc.m3u8?s=21LJl_aW4V0lHbVr81EzvA&e=1718942848
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 05
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/mxpjkbo9xahma.m3u8?s=36jmLEeQbNwngbsRQ8GP_w&e=1718942950
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 06
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/2ov0r1.m3u8?s=GW00xxt46iGPnxpnd0O55Q&e=1718943012
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.UziO1RItluD9oyabObxVpAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER 07
+https://cmxpfbya9zkeqdj32s57t6.cdnrecruit.net:8443/hls/wjgb6m.m3u8?s=iZDogtHOnqzwNG48ApWGLQ&e=1718943072
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.lhxXJ0yy1yuvBNCkFueW3gAAAA&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",WOOHOO
 https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.3evx_yK-gcqADsaGeRCOFQHaEz?w=276&h=180&c=7&r=0&o=5&pid=1.7",TLC
