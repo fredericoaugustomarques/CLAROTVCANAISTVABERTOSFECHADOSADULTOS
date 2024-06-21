@@ -189,6 +189,8 @@ https://mycdn.delivery/hgtv/tracks-v1a1/mono.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th?id=OIP.xLtdElecM1vGVNm6aEWW_AHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PRIME BOX BRASIL
 https://mycdn.delivery/primeboxbrazil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP._umHQegs3nBY5MY17BcerQHaHa?w=176&h=180&c=7&r=0&o=5&pid=1.7",PLAYTV
+https://isaocorp.cloudecast.com/playtv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th/id/OIP.8HXhCPwVH_aVaAejjITntwAAAA?w=175&h=176&c=7&r=0&o=5&pid=1.7",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="CANAIS RELIGIOSOS" tvg-logo="https://th.bing.com/th?id=OIP.xlevGI9LyuLhpatkCeq4XAAAAA&w=249&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",Rede Super
