@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CANAL CLARO VIDEO" tvg-logo="https://th.bing.com/th?id=OIP.pNGgLjHoaknPSKZAPoSHOQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",CANAL CLARO VIDEO ANUNCIO
 https://api.mp4.to/static/downloads/0420543e-f616-4f18-8f50-972db2fe6cd4/video-sem-titulo-feito-com-o-clipchamp.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.GsN_aLxrBoGZ34CUniNGTAHaFh&w=289&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVCULTURA
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.GsN_aLxrBoGZ34CUniNGTAHaFh&w=289&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVCULTURA 
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.KdHO1E5jM9-H39HJydbyjgHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SBT
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.KdHO1E5jM9-H39HJydbyjgHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.OdwtTYJOW2ljKZ6maVSkwQHaGe?pid=ImgDet&w=203&h=177&c=7",REDEGLOBO SP
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDE GLOBO 
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.cYbQUSiAcpDOnANIkTOrvQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",RECORDTV
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.cYbQUSiAcpDOnANIkTOrvQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",RECORDTV 
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.kGiM4eq9apHFFnhAgdmkFwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVGAZETA
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.kGiM4eq9apHFFnhAgdmkFwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVGAZETA 
 http://bdta.pro/3134767531/5CqmEyGNTt/72406.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.s7zGTeEumlqpm9Vp8h8blAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",REDETV
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.s7zGTeEumlqpm9Vp8h8blAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",REDETV 
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.2nViMEcaCKIYARptbA_6-gHaF8?w=200&h=180&c=7&r=0&o=5&pid=1.7",BANDTV
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th/id/OIP.2nViMEcaCKIYARptbA_6-gHaF8?w=200&h=180&c=7&r=0&o=5&pid=1.7",BANDTV 
 http://bdta.pro/3134767531/5CqmEyGNTt/72597.m3u8
 #EXTINF:-1 tvg-id="CANAIS NOTICIAS" tvg-logo="https://th.bing.com/th/id/OIP.0tUhuLWajeMaRK8iRMY58AHaHa?w=188&h=187&c=7&r=0&o=5&pid=1.7",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
@@ -26,21 +26,21 @@ http://bdta.pro/3134767531/5CqmEyGNTt/71999.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.EHHrtgj6IrTQcMpUfKIRDAHaFQ?w=240&h=180&c=7&r=0&o=5&pid=1.7",ANIMAL PLANET
 https://mycdn.delivery/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.GpvM3--bNBNZLwuP07GNawHaFj?w=210&h=180&c=7&r=0&o=5&pid=1.7",DISCOVERY CHANNEL
-https://mycdn.delivery/discovery/tracks-v1a1/mono.m3u8
+https://mycdn.delivery/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.LlQL7vgPKZ0qLkhFiTVu2gHaCn?w=337&h=123&c=7&r=0&o=5&pid=1.7",DISCOVERY TURBO
-https://mycdn.delivery/discoveryturbo/tracks-v1a1/mono.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?q=Logo+History+Channel+PNG&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247",HISTORY
 http://bdta.pro/3134767531/5CqmEyGNTt/72148.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?q=History+2+Canal+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247",HISTORY 2
-https://mycdn.delivery/history2/tracks-v1a1/mono.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282-3-main.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.aErkHOi8c8KoGuhp26q2MwHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7",DISCOVERY TEACHER
-https://mycdn.delivery/discoverytheater/tracks-v1a1/mono.m3u8
+https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?id=OIP.YKjcjteZ4uOxy9dRpeLkUAHaIc&w=234&h=266&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",DISCOVERY SCIENCE
-http://bdta.pro/3134767531/5CqmEyGNTt/71877.m3u8
+https://mycdn.delivery/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?id=OIP.zAAGrAzfx8xKoCBGT6q74wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",DISCOVERY WORLD
 http://bdta.pro/3134767531/5CqmEyGNTt/71889.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th/id/OIP.2bxLoBKOAQoyFHeB-GkexAHaE8?w=239&h=180&c=7&r=0&o=5&pid=1.7",INVESTIGAÇÃO DISCOVERY 
-https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
+https://mycdn.delivery/discoveryid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS DOCUMENTÁRIOS" tvg-logo="https://th.bing.com/th?id=OIP.5mlvIzvM9Bktlh56wswfJwHaD9&w=342&h=182&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",NATIONAL GEOGRAPHIC
 http://bdta.pro/3134767531/5CqmEyGNTt/72199.m3u8
 #EXTINF:-1 tvg-id="CANAIS INFANTIL" tvg-logo="https://th.bing.com/th/id/OIP.LztJrp3P3dnOCJWsgLB9wQHaFQ?w=242&h=180&c=7&r=0&o=5&pid=1.7",BABY TV
@@ -85,6 +85,8 @@ https://mycdn.delivery/telecinefun/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/telecinepipoca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.i66sr2uoI6llgW-6VnAtfAAAAA?w=155&h=159&c=7&r=0&o=5&pid=1.7",Telecine Touch
 https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.VdHsCIasV9nfAI0_nJmkWAAAAA?w=147&h=159&c=7&r=0&o=5&pid=1.7",Telecine Premium
+https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.MONue3QOg_JVJyzK9cHZ-wHaD0?w=314&h=179&c=7&r=0&o=5&pid=1.7",Megapix
 http://bdta.pro/3134767531/5CqmEyGNTt/72120.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2
@@ -103,11 +105,9 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/72140.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/cZWoJWD.png",Cinemax 
 http://bdta.pro/3134767531/5CqmEyGNTt/71835.m3u8
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://i.imgur.com/gwxX1Y3.png",Filmes Misteriosos 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.OaFbnBqtiyoMicWMokmmDQHaHW&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT FILMES 
 https://mycdn.delivery/tnt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.OaFbnBqtiyoMicWMokmmDQHaHW&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT SÉRIES
+#EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th?id=OIP.kAHUUZRZx_htvohvfmwfBgAAAA&w=229&h=271&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TNT SÉRIES
 http://bdta.pro/3134767531/5CqmEyGNTt/72383.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.qNbyfkt3Chg9hwqEsxr6GwHaDc?w=302&h=162&c=7&r=0&o=5&pid=1.7",Studio Universal
 https://mycdn.delivery/studiouniversal/tracks-v1a1/mono.m3u8
@@ -135,13 +135,15 @@ http://bdta.pro/3134767531/5CqmEyGNTt/71909.m3u8
 http://bdta.pro/3134767531/5CqmEyGNTt/71960.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.z9SETWiBAD-XZvQxuN3xOQHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",ESPN EXTRA
 http://bdta.pro/3134767531/5CqmEyGNTt/71917.m3u8
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t5gf9_M-SH5SbMJo3tdoQQAAAA&w=335&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",FOX SPORTS 2
+http://bdta.pro/3134767531/5CqmEyGNTt/71917.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.IeGRbtrPVoqnovKSpbc7OQHaBU&w=354&h=63&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 01 
 http://bdta.pro/3134767531/5CqmEyGNTt/72332.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.b7baek3gi9J2cQ2c9PvfgwHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 02
 http://bdta.pro/3134767531/5CqmEyGNTt/131176.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.b7baek3gi9J2cQ2c9PvfgwHaBW&w=350&h=64&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SPORTV 03
 http://bdta.pro/3134767531/5CqmEyGNTt/131113.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t9olwooambndMvDbrBSAGAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.t9olwooambndMvDbrBSAGAHaBL&w=376&h=59&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",PREMIER CLUBES 
 http://bdta.pro/3134767531/5CqmEyGNTt/72265.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",PREMIER 02
 https://sportscdn.net/live/premiere2_720p.m3u8
@@ -154,10 +156,12 @@ https://sportscdn.net/live/premiere5_720p.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",PREMIER 06
 https://sportscdn.net/live/premiere6_720p.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",PREMIER 07
-https://sportscdn.net/live/premiere7_720p.m3u8
+https://sportscdn.net/live/premiere7_480p.m3u8
 #EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",PREMIER 08
 https://sportscdn.net/live/premiere8_720p.m3u8
-#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.lhxXJ0yy1yuvBNCkFueW3gAAAA&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",WOOHOO
+#EXTINF:-1 tvg-id="CANAIS ESPORTES" tvg-logo="https://th.bing.com/th?id=OIP.kJLj5VG1tOsFZxTbRT1I2wHaE0&w=310&h=201&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",CANAL OFF
+
+#EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th?id=OIP.lhxXJ0yy1yuvBNCkFueW3gAAAA&w=150&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",WOOHOO
 https://mycdn.delivery/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.3evx_yK-gcqADsaGeRCOFQHaEz?w=276&h=180&c=7&r=0&o=5&pid=1.7",TLC
 https://mycdn.delivery/tlc/tracks-v1a1/mono.m3u8
@@ -172,9 +176,9 @@ https://mycdn.delivery/gnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th?id=OIP.9Q-cUKUIwc8W5r769XxBzQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",MULTISHOW
 http://bdta.pro/3134767531/5CqmEyGNTt/72182.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.h4asvHzv9zR9VSHSLmAyLwHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7",MTV Brazil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.TDQg2eD_QTHzfNyFcrT8KgAAAA?w=164&h=180&c=7&r=0&o=5&pid=1.7",ARTE 1
-https://mycdn.delivery/arte1/tracks-v1a1/mono.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292-3-main.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th/id/OIP.wtIldmJHLx_X1fVjJmwYrQHaFj?w=236&h=180&c=7&r=0&o=5&pid=1.7",CANAL CURTA
 https://mycdn.delivery/curta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS VARIEDADES" tvg-logo="https://th.bing.com/th?id=OIP.zo8EPrw6NQ7YREQ_118oQAHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",COMEDY CENTRAL
