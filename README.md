@@ -87,6 +87,12 @@ https://mycdn.delivery/telecinetouch/tracks-v1a1/mono.m3u8
 https://mycdn.delivery/telecinepremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.MONue3QOg_JVJyzK9cHZ-wHaD0?w=314&h=179&c=7&r=0&o=5&pid=1.7",Megapix
 http://bdta.pro/3134767531/5CqmEyGNTt/72120.m3u8
+#EXTINF:-1 tvg-id="CANAIS FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.6PGMi9x4ncWzcYQHzyzWQgHaDD?w=307&h=144&c=7&r=0&o=5&pid=1.7",HBO 
+http://bdta.pro/3134767531/5CqmEyGNTt/72133.m3u8
+#EXTINF:-1 tvg-id="CANAIS FILMES E SÉRIES" tvg-logo="https://th.bing.com/th/id/OIP.dE8j2fJlG65fcqoqEMzcpgHaE8?rs=1&pid=ImgDetMain",HBOMAX
+http://bdta.pro/3134767531/5CqmEyGNTt/72128.m3u8
+#EXTINF:-1 tvg-id="CANAIS FILMES E SÉRIES" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",HBO+
+http://bdta.pro/3134767531/5CqmEyGNTt/72127.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2
 http://bdta.pro/3134767531/5CqmEyGNTt/72112.m3u8
 #EXTINF:-1 tvg-id="FILMES E SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family 
