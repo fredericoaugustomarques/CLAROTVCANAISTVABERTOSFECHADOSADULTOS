@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://m3u.win/images/canais/ae.png" group-title="Filmes e Séries",A&E
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/201.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://m3u.win/images/canais/ae-hd.png" group-title="Filmes e Séries",A&E HD
